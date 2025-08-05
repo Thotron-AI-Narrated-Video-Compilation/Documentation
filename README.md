@@ -71,6 +71,6 @@ Dr. Ihab El-Khodary, Dr. Wael Wahby, Eng. Hamza Emad
 - [Frontend (React.js)](https://github.com/ThotronOrg/frontend)
 - [Backend (.NET Core)](https://github.com/ThotronOrg/backend)
 - [AI Modules (Flask + Models)](https://github.com/ThotronOrg/ai-modules)
-- [Demo](https://github.com/ThotronOrg/Demo)
+- [Demo](https://github.com/Thotron-AI-Narrated-Video-Compilation/DEMO)
 
 
